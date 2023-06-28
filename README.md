@@ -7,6 +7,7 @@ QuizApp is an interactive multiple-choice quiz app designed to challenge your kn
 - Engaging multiple-choice questions
 - Score tracking to monitor your progress
 - Questions bank with well arranged questions
+- New questions can be added easily
 - Randomized question order for added challenge
 - Randomized options to prevent memorization
 - Sound effects to enhance the user experience
@@ -62,8 +63,8 @@ I would like to express my gratitude to the Flutter community for their valuable
 For any questions, feedback, or collaboration opportunities, feel free to reach out:
 
 - Email: sheharyar1508@gmail.com
+- LinkedIn: [Shehayar](https://www.linkedin.com/in/sheharyar1508/)
 - Twitter: [@sheharyar132878](https://twitter.com/sheharyar132878)
 - GitHub: [Shery-1508](https://github.com/Shery-1508)
-- LinkedIn: [Shehayar](https://www.linkedin.com/in/sheharyar1508/)
 
 Enjoy quizzing with QuizApp!
