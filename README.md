@@ -27,7 +27,7 @@ To use QuizApp, follow these steps:
 
 1. Clone the repository:
 
-'''
+'''bash
 https://github.com/Shery-1508/Flutter_quiz_app.git
 '''
 
