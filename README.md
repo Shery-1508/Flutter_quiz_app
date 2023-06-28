@@ -27,9 +27,9 @@ To use QuizApp, follow these steps:
 
 1. Clone the repository:
 
-'''bash
-https://github.com/Shery-1508/Flutter_quiz_app.git
-'''
+```bash
+git clone https://github.com/Shery-1508/Flutter_quiz_app.git
+```
 
 
 2. Open the project in Android Studio or any Flutter-supported IDE.
