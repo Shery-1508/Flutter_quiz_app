@@ -24,7 +24,8 @@ QuizApp is an interactive multiple-choice quiz app designed to challenge your kn
 
 ### Demo/Download
 - [Android Apk](https://cssduet.acm.org/apps_shery/QuizApp.apk)
-- [Web App]()
+- [Web App](https://shery-1508.github.io/Flutter_quiz_app/)
+(web version maybe bit slow at first )
 
 ## Installation
 
