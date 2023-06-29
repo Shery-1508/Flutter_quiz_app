@@ -53,6 +53,7 @@ QuizApp is an open-source project, and contributions are always welcome! If you 
 - [audioplayers](https://pub.dev/packages/audioplayers): Used to play sound effects in the app.
 - [math.dart](https://pub.dev/packages/math): Used to generate random numbers in the app.
 - Sound Effects: Sound effects used in the app were sourced from [freesound.org](https://www.freesound.org).
+- Fonts: fonts used in the app were sourced from [1001fonts](https://www.1001fonts.com/)
 
 ## License
 
